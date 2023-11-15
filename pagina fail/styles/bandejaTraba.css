@@ -1,0 +1,25 @@
+#nav{
+    background: linear-gradient(90deg, rgb(183, 112, 185) 0%, rgb(215, 133, 218) 35%, rgb(215, 133, 218) 100%);
+}
+body{
+    background-color: aliceblue;
+    
+}
+#pepe{
+    background-color: #af688d;
+}
+
+.search-container {
+    text-align: center;
+    margin: 20px;
+}
+
+#searchInput {
+    padding: 10px;
+    width: 300px;
+}
+
+button {
+    padding: 10px;
+    cursor: pointer;
+}
