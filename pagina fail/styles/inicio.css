@@ -1,0 +1,8 @@
+#nav{
+    background: linear-gradient(90deg, rgb(146, 38, 150) 0%, rgb(146, 38, 150) 35%, rgb(146, 38, 150) 100%);
+}
+body{
+    background-image: url('../img/fondo.jpg');
+    background-size: cover; /* Ajusta el tamaño de la imagen para cubrir todo el fondo */
+    background-attachment: fixed; /* Fija la imagen de fondo para que no se desplace con el contenido */
+}
